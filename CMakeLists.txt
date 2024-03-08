@@ -18,7 +18,7 @@ add_pear_appling(
     com.apple.security.device.microphone
     com.apple.security.device.audio-input
     com.apple.security.device.camera
-  MACOS_SIGNING_IDENTITY "<TODO>"
+  MACOS_SIGNING_IDENTITY "09590CDE64938DA62FA174A68C240D346B05EF49"
 
   WINDOWS_SIGNING_SUBJECT "<TODO>"
   WINDOWS_SIGNING_THUMBPRINT "<TODO>"
