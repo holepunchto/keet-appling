@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "keet-appling",
+  "description": "Keet application shell for macOS, Linux, and Windows",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holepunchto/keet-appling.git"
+  },
+  "author": "Holepunch",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/keet-appling/issues"
+  },
+  "homepage": "https://github.com/holepunchto/keet-appling#readme",
+  "devDependencies": {
+    "cmake-pear": "^1.0.4"
+  }
+}
