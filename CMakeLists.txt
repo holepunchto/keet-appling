@@ -1,12 +1,12 @@
-cmake_minimum_required(VERSION 3.25)
+cmake_minimum_required(VERSION 3.31)
 
 find_package(cmake-pear REQUIRED PATHS node_modules/cmake-pear)
 
-project(keet_appling C)
+project(keet_appling C CXX ASM)
 
 add_pear_appling(
   keet_appling
-  KEY keet
+  ID keet
   NAME Keet
   VERSION 2.4.1
   AUTHOR Holepunch

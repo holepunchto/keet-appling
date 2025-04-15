@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/holepunchto/keet-appling#readme",
   "devDependencies": {
-    "cmake-pear": "^1.0.5"
+    "cmake-pear": "^2.0.0"
   }
 }
